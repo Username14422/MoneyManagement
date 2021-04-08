@@ -1,0 +1,13 @@
+C:\Users\Seegu\source\repos\TypographyNN\money\bin\Debug\money.exe.config
+C:\Users\Seegu\source\repos\TypographyNN\money\bin\Debug\money.exe
+C:\Users\Seegu\source\repos\TypographyNN\money\bin\Debug\money.pdb
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.csprojAssemblyReference.cache
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.EditForm.resources
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.MainForm.resources
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.Properties.Resources.resources
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.csproj.GenerateResource.cache
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.csproj.CoreCompileInputs.cache
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.exe
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.pdb
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.EditDBForm.resources
+C:\Users\Seegu\source\repos\TypographyNN\money\obj\Debug\money.EditDBWithTagsForm.resources
